@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oUFIjn36eTi83ZU5onkvnC/l0d9Xx81zyE1QgDUcmf1HV5VLilX6FdO2sk1d1uSklezWL5ma+2HZnFjEHB8YA==",
+  "success": true,
+  "projectFilePath": "D:\\Test\\XtGlobal\\DadJokesApplication\\DadJokesApp\\DadJokesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naresh Askani\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
